@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using GeoJSON.Net.Geometry;
@@ -17,6 +17,7 @@ namespace GeoJSON.Net.Contrib.MsSqlSpatial
     /// <summary>
     /// GeoJSON.Net / MS Sql Server Spatial data types converter.
     /// All methods here are static and extensions to GeoJSON.Net types and Sql Server types.
+    /// 
     /// </summary>
     public static partial class MsSqlSpatialConvert
     {
